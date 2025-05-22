@@ -1,0 +1,20 @@
+2025-05-21 23:15:27.017 [info] Extension host with pid 46995 started
+2025-05-21 23:15:27.017 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602/vscode.lock'
+2025-05-21 23:15:27.017 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-21 23:15:27.027 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602/vscode.lock': The lock does not look stale, elapsed: 182 ms, giving up.
+2025-05-21 23:15:27.027 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-1/vscode.lock'
+2025-05-21 23:15:27.028 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-21 23:15:27.028 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-1/vscode.lock': The lock does not look stale, elapsed: 496 ms, giving up.
+2025-05-21 23:15:27.028 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-2/vscode.lock'
+2025-05-21 23:15:27.029 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-21 23:15:27.029 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-2/vscode.lock': The lock does not look stale, elapsed: 855 ms, giving up.
+2025-05-21 23:15:27.031 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/3fb7b602-3/vscode.lock': Lock acquired.
+2025-05-21 23:15:27.323 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-21 23:15:27.413 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-21 23:15:27.474 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-21 23:15:27.475 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-21 23:15:27.754 [info] Eager extensions activated
+2025-05-21 23:15:27.755 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 23:15:27.755 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 23:15:28.279 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-21 23:15:28.382 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
