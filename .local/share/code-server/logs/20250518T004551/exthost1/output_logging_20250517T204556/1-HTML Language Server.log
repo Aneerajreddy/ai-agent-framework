@@ -1,5 +1,0 @@
-[Error - 8:46:39 PM] Request textDocument/documentColor failed.
-Error: Starting server failed
-	at R.$start (/usr/lib/code-server/lib/vscode/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:282149)
-	at async R.sendRequest (/usr/lib/code-server/lib/vscode/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:265598)
-	at async g4.provideColors (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:145:151102)
